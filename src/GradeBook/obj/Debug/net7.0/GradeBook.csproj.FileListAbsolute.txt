@@ -1,0 +1,15 @@
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/bin/Debug/net7.0/GradeBook
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/bin/Debug/net7.0/GradeBook.deps.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/bin/Debug/net7.0/GradeBook.runtimeconfig.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/bin/Debug/net7.0/GradeBook.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/bin/Debug/net7.0/GradeBook.pdb
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.csproj.AssemblyReference.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.AssemblyInfoInputs.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.AssemblyInfo.cs
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/refint/GradeBook.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.pdb
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/GradeBook.genruntimeconfig.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/Debug/net7.0/ref/GradeBook.dll
