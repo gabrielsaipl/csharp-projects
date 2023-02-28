@@ -8,25 +8,24 @@ namespace GradeBook
         public void AddGrade(double grade){
             grades.Add(grade);
         }
-        public void ShowStatistics(){
+        public Statistics GetStatistics(){
 
-            var lowGrade = double.MaxValue;
-            var highGrade = double.MinValue;
-            var average = 0.0;
+            var result = new Statistics();
+            result.average = 0.0;
+            result.Low = double.MaxValue;
+            result.High = double.MinValue;
             foreach(var grade in grades){
-                if (lowGrade > grade){
-                    lowGrade = grade;
+                if (result.Low > grade){
+                    result.Low = grade;
                 }
-                if (highGrade < grade){
-                    highGrade = grade;
+                if (result.High < grade){
+                    result.High = grade;
                 }
-                average += grade;
+                result.average += grade;
             }
-            average /= grades.Count;
+            result.average /= grades.Count;
 
-            Console.WriteLine($"lowest grade: {lowGrade}, highest grade ${highGrade}, average: ${average:N1}");
-
-
+            return result;
         }
         List<double> grades = new List<double>();
     }

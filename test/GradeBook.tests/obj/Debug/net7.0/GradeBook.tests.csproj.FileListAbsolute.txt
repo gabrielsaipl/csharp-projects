@@ -96,3 +96,9 @@
 /Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/obj/Debug/net7.0/GradeBook.tests.pdb
 /Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/obj/Debug/net7.0/GradeBook.tests.genruntimeconfig.cache
 /Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/obj/Debug/net7.0/ref/GradeBook.tests.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/bin/Debug/net7.0/gradebook.deps.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/bin/Debug/net7.0/gradebook.runtimeconfig.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/bin/Debug/net7.0/gradebook
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/bin/Debug/net7.0/gradebook.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/bin/Debug/net7.0/gradebook.pdb

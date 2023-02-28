@@ -7,13 +7,14 @@ public class BookTests
     {  
         //arrange
         Book grades = new Book();
-        grades.AddGrade(35.3);
-        grades.AddGrade(85.4);
-        grades.AddGrade(35.31);
+        grades.AddGrade(89.1);
+        grades.AddGrade(90.5);
+        grades.AddGrade(77.3);
         //act
-        if (grades != null){
-            grades.ShowStatistics();
-        }
+        var result = grades.GetStatistics();
         //assert
+        Assert.Equal(85.6, result.average, 0);
+        Assert.Equal(90.5, result.High);
+        Assert.Equal(77.3, result.Low); 
     }
 }

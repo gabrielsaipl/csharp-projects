@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/GradeBook.csproj": {}
+    "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/gradebook/gradebook.csproj": {}
   },
   "projects": {
-    "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/GradeBook.csproj": {
+    "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/gradebook/gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/GradeBook.csproj",
-        "projectName": "GradeBook",
-        "projectPath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/gradebook/gradebook.csproj",
+        "projectName": "gradebook",
+        "projectPath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/gradebook/gradebook.csproj",
         "packagesPath": "/Users/gabrielsa/.nuget/packages/",
-        "outputPath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/obj/",
+        "outputPath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/gradebook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gabrielsa/.nuget/NuGet/NuGet.Config"
