@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zaAkLKSOhDnBeY5P/5lrzFqx5fRs0tI7kVd8M88nTLOAQto/GrD0sPkGlJbwtdxvwalEQXlwVWrboJoiKS+HcA==",
+  "dgSpecHash": "rsNssicDvW8WJ4j95yj5KrNCj2i8Y7q4UTl8yEaYGoDngkAYh0foQoPZa1WA3UDol+lTiJmFAsihJqxmoaNpmw==",
   "success": true,
-  "projectFilePath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/gradebook/gradebook.csproj",
+  "projectFilePath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/src/GradeBook/GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

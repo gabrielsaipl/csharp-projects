@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSwWJbYiz+VSVljiArKEi+lV4AT4Bck5a/YgXQvkBgbA+JnMQAZjN/dToEqzsnWYtI5JAOJsLxqYj6RjobrHzg==",
+  "dgSpecHash": "bnWbEC7wfah72TFJ8tWSzOnKctVCMGjbV+3y+Z1IoIE8D1fRGeDPz7EingZAD/UhTCSwROCS+weKRmTpRfMBww==",
   "success": true,
-  "projectFilePath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/GradeBook.tests.csproj",
+  "projectFilePath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/gradebook.tests/gradebook.tests.csproj",
   "expectedPackageFiles": [
     "/Users/gabrielsa/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/gabrielsa/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

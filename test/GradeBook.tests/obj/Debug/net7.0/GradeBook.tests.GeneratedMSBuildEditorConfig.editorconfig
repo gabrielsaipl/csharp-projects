@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = GradeBook.tests
-build_property.ProjectDir = /Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/GradeBook.tests/
+build_property.RootNamespace = gradebook.tests
+build_property.ProjectDir = /Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/test/gradebook.tests/

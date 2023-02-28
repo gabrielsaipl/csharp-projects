@@ -2,8 +2,9 @@ namespace GradeBook
 {
    public class Book
     {
-        public Book(){
+        public Book(string name){
             grades = new List<double>();
+            Name = name;
         }
         public void AddGrade(double grade){
             grades.Add(grade);
@@ -28,7 +29,9 @@ namespace GradeBook
             return result;
         }
         List<double> grades = new List<double>();
+        public string Name;
     }
+    
 }
 
 // Path: src/GradeBook/Program.cs
