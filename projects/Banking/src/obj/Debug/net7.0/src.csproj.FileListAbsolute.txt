@@ -1,0 +1,15 @@
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/bin/Debug/net7.0/src
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/bin/Debug/net7.0/src.deps.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/bin/Debug/net7.0/src.runtimeconfig.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/bin/Debug/net7.0/src.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/bin/Debug/net7.0/src.pdb
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.csproj.AssemblyReference.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.AssemblyInfoInputs.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.AssemblyInfo.cs
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.csproj.CoreCompileInputs.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/refint/src.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.pdb
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/src.genruntimeconfig.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/Banking/src/obj/Debug/net7.0/ref/src.dll
