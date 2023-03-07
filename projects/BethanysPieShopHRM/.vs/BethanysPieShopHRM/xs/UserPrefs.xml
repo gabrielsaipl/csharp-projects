@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{9E4B8313-6A62-40DD-8F9C-C6C9C7A3B0ED}|https">
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShopHRM FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShopHRM PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShopHRM.Shared FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,12 @@
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/bin/Debug/net7.0/BethanysPieShopHRM.Shared.deps.json
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/bin/Debug/net7.0/BethanysPieShopHRM.Shared.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/bin/Debug/net7.0/BethanysPieShopHRM.Shared.pdb
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.csproj.AssemblyReference.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.AssemblyInfo.cs
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/refint/BethanysPieShopHRM.Shared.dll
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/BethanysPieShopHRM.Shared.pdb
+/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/obj/Debug/net7.0/ref/BethanysPieShopHRM.Shared.dll

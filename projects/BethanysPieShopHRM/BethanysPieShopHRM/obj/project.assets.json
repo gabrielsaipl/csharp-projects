@@ -475,6 +475,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "BethanysPieShopHRM.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BethanysPieShopHRM.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BethanysPieShopHRM.Shared.dll": {}
+        }
       }
     },
     "net7.0/browser-wasm": {
@@ -944,6 +954,16 @@
         },
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "BethanysPieShopHRM.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BethanysPieShopHRM.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BethanysPieShopHRM.Shared.dll": {}
         }
       }
     }
@@ -1792,10 +1812,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BethanysPieShopHRM.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj",
+      "msbuildProject": "../BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "BethanysPieShopHRM.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.3",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.3"
     ]
@@ -1825,7 +1851,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj": {
+              "projectPath": "/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

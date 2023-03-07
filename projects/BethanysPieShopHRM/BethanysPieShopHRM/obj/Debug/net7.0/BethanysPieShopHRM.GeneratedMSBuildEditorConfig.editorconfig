@@ -20,12 +20,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM/Pages/EmployeeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVEZXRhaWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM/Pages/EmployeeOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/gabrielsa/Documents/Programming/VSCode/github/csharp-projects/projects/BethanysPieShopHRM/BethanysPieShopHRM/Pages/Index.razor]
