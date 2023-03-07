@@ -1,5 +1,9 @@
 namespace GradeBook
 {
+
+    public delegate void GradeAddedDelegate(object sender, EventArgs args);
+
+
    public class Book
     {
         public Book(string name){
@@ -7,8 +11,17 @@ namespace GradeBook
             Name = name;
         }
         public void AddGrade(double grade){
-            grades.Add(grade);
+            double r = 2.2;
+            if (grade <= 100 && grade >= 0){
+                grades.Add(grade);
+                if (GradeAdded != null){
+                    GradeAdded(this, new EventArgs());
+                }
+            }
+            else throw new ArgumentException("Invalid number");
         }
+
+        public event GradeAddedDelegate GradeAdded;
         public Statistics GetStatistics(){
 
             var result = new Statistics();

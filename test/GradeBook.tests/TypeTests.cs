@@ -1,9 +1,30 @@
 namespace GradeBook.tests;
 
+public delegate string WriteLogDelegate(string logMessage);
+
 public class TypeTests 
 {
+    int count = 0;
+    [Fact]
+    public void WriteLogDelegateCanPointToAnotherMethod(){
+        WriteLogDelegate log = ReturnMessage;
+        log += ReturnMessage;
+        log += IncrementCount;
+        var result = log("Hello!");
+        Assert.Equal(3,count);
+    }
 
-[Fact]
+string IncrementCount(string message){
+        count++;
+        return message.ToLower();
+    }
+
+    string ReturnMessage(string message){
+        count++;
+        return message;
+    }
+        
+/* [Fact]
     public void CsharpCanPassByReference()
     {  
         var book1 = GetBook("Book 1");
@@ -62,5 +83,5 @@ public class TypeTests
     }
     Book GetBook(string name){
         return new Book(name);
-    }
+    } */
 }
